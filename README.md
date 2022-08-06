@@ -1,6 +1,7 @@
 # CVR FOV Mod
 
-CVR FOV Mod is a mod that allows the user to customize the FOV within ChilloutVR
+CVR FOV Mod is a mod that allows the user to customize the FOV within ChilloutVR\
+*Note: This will only work on the desktop version as messing with FOV values in VR has unwanted concequences*
 
 ![](https://github.com/sebi12391/CVR-FOV-Mod/blob/main/Example.gif)
 
